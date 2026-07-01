@@ -42,6 +42,6 @@ Stack: pandas, Seaborn, Plotly
 
 📧 gabrielavalero005@gmail.com
 
-[LinkedIn] (https://www.linkedin.com/in/gabriela-valero-0227b1380)
+[LinkedIn]([url](https://www.linkedin.com/in/gabriela-valero-0227b1380))
 
 📍 Salt Lake City, UT — open to remote & relocation
